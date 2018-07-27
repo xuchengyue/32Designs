@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/32Designs/32Designs/bin
+/32Designs/32Designs/obj/Debug
