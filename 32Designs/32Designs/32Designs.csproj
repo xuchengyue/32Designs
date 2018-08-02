@@ -178,6 +178,8 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="notes\20180801\dotnet中六个重要概念-堆栈值引用装箱拆箱.txt" />
+    <Content Include="notes\20180802\tcpip协议分层模型.png" />
+    <Content Include="notes\20180802\两个协议：Tcp协议和Http协议.txt" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
