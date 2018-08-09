@@ -175,6 +175,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Designs\单例模式\doc.txt" />
+    <Content Include="Designs\工厂模式\doc.txt" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -238,6 +239,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Designs\抽象工厂模式\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
